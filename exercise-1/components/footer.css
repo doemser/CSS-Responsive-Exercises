@@ -1,5 +1,5 @@
 .footer {
-  background: var(--primary-dark);
+  background: var(--dark);
   height: var(--footer-height);
   width: 100%;
   position: fixed;
@@ -8,14 +8,14 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  color: var(--primary-dark-contrast-text);
+  color: var(--contrast-text);
 }
 
 .footer__paragraph__span,
 .footer__link {
-  color: var(--primary-accent-1);
+  color: var(--accent-1);
 }
 
 .footer__link {
-  color: var(--primary-accent-2);
+  color: var(--accent-2);
 }

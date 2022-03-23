@@ -1,6 +1,6 @@
 .header {
-  background: var(--primary-dark);
-  color: var(--primary-dark-contrast-text);
+  background: var(--dark);
+  color: var(--contrast-text);
   height: var(--header-height);
   position: fixed;
   z-index: 1;
