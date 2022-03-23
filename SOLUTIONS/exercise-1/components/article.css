@@ -1,0 +1,26 @@
+.article {
+  background: var(--primary-light);
+  position: relative;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0 0 5px 0 var(--primary-light-contrast-text);
+}
+
+.article__headline {
+  font-size: 1.2rem;
+  text-decoration: underline;
+  text-decoration-color: var(--primary-accent-1);
+  text-decoration-thickness: 5px;
+}
+
+.article__paragraph {
+  margin: 15px;
+}
+
+.article__svg {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  top: 15px;
+  right: 15px;
+}

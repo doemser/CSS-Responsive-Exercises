@@ -1,4 +1,4 @@
-@import "/components/article.css";
+@import "./article.css";
 
 .main-area {
   margin: var(--header-height) 0 var(--footer-height) 0;
